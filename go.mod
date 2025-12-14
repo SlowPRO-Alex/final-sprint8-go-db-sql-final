@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/go-db-sql-final
+module github.com/SlowPRO-Alex/final-sprint8-go-db-sql-final
 
 go 1.21
 
